@@ -143,12 +143,3 @@ Kolkata      Total Rainfall         302.10 mm
 
 ---
 
-## Team Members
-- Member 1: [Name] – [Roll No]
-- Member 2: [Name] – [Roll No]
-- Member 3: [Name] – [Roll No]
-- Member 4: [Name] – [Roll No]
-- Member 5: [Name] – [Roll No]
-
-**Submitted To:** Mr. [Faculty Name]
-**University:** Babu Banarasi Das University
